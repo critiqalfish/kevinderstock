@@ -1,0 +1,32 @@
+html {
+	background-color: #008B8B;
+	font-size: 10px; 
+	font-family: 'Antic Slab', serif;
+	}
+	
+h1 {
+	font-size: 80px;
+	text-align: center;
+	}
+
+hr {
+	border: 5px solid #8B4513;
+	}
+	
+p {
+	font-size: 50px;
+	margin-left: 40px;
+	}
+	
+body {
+	width: 800px;
+	margin: 80px auto;
+	background-color: #66CDAA;
+	padding: 0 20px 20px 20px;
+	border: 5px solid #8B4513;
+	}
+	
+li {
+	font-size: 35px;
+	margin-left: 40px;
+	}
