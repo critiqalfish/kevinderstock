@@ -18,6 +18,10 @@ body.dark {
 	color: #ffffff;
 }
 
+hr.dark {
+	color: #ffffff;
+}
+
 .checkbox {
 	opacity: 0;
 	position: absolute;
