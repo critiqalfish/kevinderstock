@@ -5,9 +5,6 @@
 body {
 	background-color: #fafafa;
 	display: flex;
-	align-items: center;
-	justify-content: center;
-	height: 100vh;
 	transition: background 0.2s linear;
         width: 800px;
 	margin: 80px auto;
