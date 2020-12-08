@@ -19,7 +19,8 @@ body.dark {
 }
 
 hr.dark {
-	color: #ffffff;
+	border: 5px solid #000000;
+	border-radius: 12px;
 }
 
 .checkbox {
