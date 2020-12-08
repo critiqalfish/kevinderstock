@@ -10,11 +10,12 @@ body {
 	padding: 0 20px 20px 20px;
 	border: 10px solid #ffffff;
 	border-radius: 12px;
-
+	color: #000000;
 }
 
 body.dark {
 	background: #2B2B2B;
+	color: #ffffff;
 }
 
 .checkbox {
@@ -65,7 +66,6 @@ html {
 	background-color: #171717;
 	font-size: 10px; 
 	font-family: 'Antic Slab', serif;
-	color: #ffffff;
 	}
 	
 h1 {
