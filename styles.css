@@ -4,7 +4,6 @@
 
 body {
 	background-color: #fafafa;
-	display: flex;
 	transition: background 0.2s linear;
         width: 800px;
 	margin: 80px auto;
@@ -50,6 +49,17 @@ body.dark {
 }
 
 .checkbox:checked + .label .ball {
+        transform: translateX(24px);
+}
+
+
+.fa-moon {
+	color: #f1c40f;
+}
+
+.fa-sun {
+	color: #f39c12;
+}
 
 html {
 	background-color: #171717;
