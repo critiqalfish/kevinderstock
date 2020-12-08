@@ -1,4 +1,4 @@
-const chk = document.querySelector('hr');
+const chk = document.getElementById('chk');
 
 chk.addEventListener('change', () => {
 	document.body.classList.toggle('dark');
