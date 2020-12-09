@@ -16,6 +16,7 @@ body {
 body.dark {
 	background: #2B2B2B;
 	color: #ffffff;
+        border: 10px solid #ffffff
 }
 
 body.dark hr {
