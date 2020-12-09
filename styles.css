@@ -133,5 +133,5 @@ body.dark .DarkMode {
 	}
 
 body.dark .WhiteMode {
-	display: inline;
+	display: block;
 	}
