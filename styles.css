@@ -114,5 +114,5 @@ img {
 	font-size: 20px;
 	margin-left: 650px;
 	margin-top: 20px;
-	overflow-wrap: break-word;
+	overflow: hidden;
 	}
