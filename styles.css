@@ -125,4 +125,13 @@ img {
 	margin-top: 30px;
 	margin-right: -100px;
 	overflow: visible;
+	visibility: collapse;
+	}
+
+body.dark .DarkMode {
+	visibility: collapse;
+	}
+
+body.dark .WhiteMode {
+	
 	}
