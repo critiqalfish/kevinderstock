@@ -18,7 +18,7 @@ body.dark {
 	color: #ffffff;
 }
 
-hr.dark {
+body.dark hr {
 	border: 5px solid #ffffff;
 	border-radius: 12px;
 }
